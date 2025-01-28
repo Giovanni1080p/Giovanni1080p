@@ -8,10 +8,10 @@
 O que estou estudando:
 </p>
 <p align="left">
- - 📊 Análise de Dados : Explorando técnicas e ferramentas para extrair insights valiosos a partir de conjuntos de dados.
+ - 📊 Python : Python é uma linguagem de programação simples, versátil e poderosa, usada em áreas como desenvolvimento web, ciência de dados, automação e muito mais. Sua sintaxe fácil de aprender e a vasta comunidade a tornam ideal tanto para iniciantes quanto para profissionais.
 </p>
 <p align="left">
-- 📈 Visualização de Dados: Utilizando visualizações eficazes para comunicar de maneira clara e impactante as descobertas obtidas.
+- 📈 Análise e Desenvolvimento de Sistemas : É o estudo e a prática de criar, implementar e manter sistemas de software que atendem às necessidades dos usuários e das empresas. Envolve entender os requisitos dos usuários, projetar sistemas eficientes, programar, testar e garantir que esses sistemas funcionem corretamente e de maneira segura. 🚀💻
 </p>
 <p align="left">
  - 🧠 Aprendizado de Máquina: Explorando conceitos e aplicando algoritmos para aprimorar ainda mais minha compreensão e habilidades.
@@ -20,7 +20,7 @@ O que estou estudando:
 Projetos:
 </p>
 <p align="left">
-Aqui você encontrará repositórios relacionados aos meus estudos e projetos em análise de dados. Sinta-se à vontade para explorar, contribuir ou fornecer feedback!
+Aqui você encontrará repositórios relacionados aos meus estudos e projetos. Sinta-se à vontade para explorar, contribuir ou fornecer feedback!
 </p>
 <p align="left">
 Contato:
